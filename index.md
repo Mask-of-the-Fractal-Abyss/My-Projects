@@ -1,4 +1,5 @@
 ## PROJECTS:
+I work on lots of different projects in my spare time.  I don't finish some of them, but for me it's more about the learning process than creating a completed, pitch-perfect project!
 ---
 #### [Email Bot](https://github.com/Mask-of-the-Fractal-Abyss/Email-Bot/tree/master), Python, Raspberry Pi = Developer: 
 ###### JANUARY 2019 – PRESENT
