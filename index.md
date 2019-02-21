@@ -26,6 +26,6 @@ This game has an interesting relationship with Super Fortress, in that I met som
 ###### JUNE 2016 - DECEMBER 2018
 I was inspired to create this chess-like game by one of my friends at Beam Camp.  It has since branched into many iterations but I have finally reached a version I am happy with.  While working on this project, I learned how to use Excel spreadsheets, CSV, and some HTML and CSS.  I also eventually used Python to automatically split a larger pdf of all the cards into a bunch of individual images. I also got to flex some of my creative writing muscles for this project, as each character has their own little unique backstory and fits into the world I built for the game.
 
-![](https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/ASolemnSoldier.png)![](https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/GrottoTheLivingLandscape.png)
+![](https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/ASolemnSoldier.png =250x250)![](https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/GrottoTheLivingLandscape.png =250x250)
 
 The card design is minimalist, so I can focus on prototyping lots of cards fast, make sure they fit nicely into the game, encourage interesting gameplay, and are balanced.
