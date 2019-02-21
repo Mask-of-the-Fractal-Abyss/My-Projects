@@ -15,6 +15,7 @@ A lot more information on the project in the readme, including goals specific to
 This is the fourth iteration of this project. A big feature I initially considered including was the ability to make this turn-based text adventure game multiplayer. Players would email a file containing the entire gamestate, almost like passing chess notation. This is different from traditional multiplayer since it is not dependent on a stable internet connection. Anyone with any access to internet can play the game with anyone else, as long as they can email a single file to them.
 
 Additional information, with game specifics, in the readme.
+
 [https://github.com/Mask-of-the-Fractal-Abyss/cryptodungeon4/tree/master](https://github.com/Mask-of-the-Fractal-Abyss/cryptodungeon4/tree/master)
 
 This is another precursor project. The next stage of the project will be a Cellular-Automata-inspired version, where almost every aspect of the gameplay is determined by a procedurally generated Cellular Automata ruleset.  This is still a precursor of a precursor. The end goal is a non-game project that I am particularly passionate about, and I look forward to seeing a polished product.
