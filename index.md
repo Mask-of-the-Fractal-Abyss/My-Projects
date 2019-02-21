@@ -33,3 +33,5 @@ I was inspired to create this chess-like game by one of my friends at Beam Camp.
 <img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/GlassFish.png" width=250 height=250><img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/TheEightHandsOfTheGlassyReef.png" width=250 height=250><img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/MangeyMuttOfTheShipDeferred.png" width=250 height=250>
 
 The card design is minimalist, so I can focus on prototyping lots of cards fast, make sure they fit nicely into the lore, encourage interesting gameplay, and are balanced.
+
+Eventually I will make a digital, online version of this game, but that's on the backburner for now.
