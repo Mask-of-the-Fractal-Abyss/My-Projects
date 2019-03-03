@@ -21,11 +21,6 @@ Additional information, with game specifics, in the readme.
 This is another precursor project. The next stage of the project will be a Cellular-Automata-inspired version, where almost every aspect of the gameplay is determined by a procedurally generated Cellular Automata ruleset.  This is still a precursor of a precursor. The end goal is a non-game project that I am particularly passionate about, and I look forward to seeing a polished product.
 
 ---
-#### Chess Dynasties, Digital Board Game = Co-Developer: 
-###### JUNE 2018 - PRESENT
-This game has an interesting relationship with Super Fortress, in that I met some people online who were already discussing working on a digital version of a very similar game.  My version of the game has since diverged, and is much different, but I am still very much invested in this project.  For this project I have learned some C# for Unity, and continue to expand on my skills in that language.
-
----
 #### Super Fortress, Board Game = Developer: 
 ###### JUNE 2016 - DECEMBER 2018
 I was inspired to create this chess-like game by one of my friends at Beam Camp.  It has since branched into many iterations but I have finally reached a version I am happy with.  While working on this project, I learned how to use Excel spreadsheets, CSV, and some HTML and CSS.  I also eventually used Python to automatically split a larger pdf of all the cards into a bunch of individual images. I also got to flex some of my creative writing muscles for this project, as each character has their own little unique backstory and fits into the world I built for the game.
@@ -35,3 +30,8 @@ I was inspired to create this chess-like game by one of my friends at Beam Camp.
 The card design is minimalist, so I can focus on prototyping lots of cards fast, make sure they fit nicely into the lore, encourage interesting gameplay, and are balanced.
 
 Eventually I will make a digital, online version of this game, but that's on the backburner for now.
+
+---
+#### Chess Dynasties, Digital Board Game = Co-Developer: 
+###### JUNE 2018 - PRESENT
+This game has an interesting relationship with Super Fortress, in that I met some people online who were already discussing working on a digital version of a very similar game.  My version of the game has since diverged, and is much different, but I am still very much invested in this project.  For this project I have learned some C# for Unity, and continue to expand on my skills in that language.
