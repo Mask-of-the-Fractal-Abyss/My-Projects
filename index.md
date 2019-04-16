@@ -25,8 +25,6 @@ This is another precursor project. The next stage of the project will be a Cellu
 ###### JUNE 2016 - DECEMBER 2018
 I was inspired to create this chess-like game by one of my friends at Beam Camp.  It has since branched into many iterations but I have finally reached a version I am happy with.  While working on this project, I learned how to use Excel spreadsheets, CSV, and some HTML and CSS.  I also eventually used Python to automatically split a larger pdf of all the cards into a bunch of individual images. I also got to flex some of my creative writing muscles for this project, as each character has their own little unique backstory and fits into the world I built for the game.
 
-<img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/GlassFish.png" width=250 height=250><img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/TheEightHandsOfTheGlassyReef.png" width=250 height=250><img src="https://github.com/Mask-of-the-Fractal-Abyss/Super-Fortress/blob/master/Cards%203.0/MangeyMuttOfTheShipDeferred.png" width=250 height=250>
-
 The card design is minimalist, so I can focus on prototyping lots of cards fast, make sure they fit nicely into the lore, encourage interesting gameplay, and are balanced.
 
 Eventually I will make a digital, online version of this game, but that's on the backburner for now.
@@ -35,3 +33,10 @@ Eventually I will make a digital, online version of this game, but that's on the
 #### Chess Dynasties, Digital Board Game = Co-Developer: 
 ###### JUNE 2018 - PRESENT
 This game has an interesting relationship with Super Fortress, in that I met some people online who were already discussing working on a digital version of a very similar game.  My version of the game has since diverged, and is much different, but I am still very much invested in this project.  For this project I have learned some C# for Unity, and continue to expand on my skills in that language.
+
+---
+#### Twilight Labyrinth, Digital Game = Co-Developer
+###### 2019 APRIL 13 - 14
+Twilight Labyrinth is a single player turn based adventure game focused on the audio immersion of the player. The game is tailored towards blind or visually impaired gamers, and can be played based on sound alone. The game was developed in 24 hours at Technight 2019 Hackathon in Brooklyn, NY.
+
+[https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth](https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth)
