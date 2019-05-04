@@ -30,13 +30,26 @@ The card design is minimalist, so I can focus on prototyping lots of cards fast,
 Eventually I will make a digital, online version of this game, but that's on the backburner for now.
 
 ---
-#### Chess Dynasties, Digital Board Game = Co-Developer: 
+#### Chess Dynasties, Digital Board Game = Artist & Designer: 
 ###### JUNE 2018 - PRESENT
-This game has an interesting relationship with Super Fortress, in that I met some people online who were already discussing working on a digital version of a very similar game.  My version of the game has since diverged, and is much different, but I am still very much invested in this project.  For this project I have learned some C# for Unity, and continue to expand on my skills in that language.
+This game has an interesting relationship with Super Fortress, in that I met some people online who were already discussing working on a digital version of a very similar game.  My version of the game has since diverged, and is much different, but I am still very much invested in this project.  For this project I have learned some C# with Unity, and continue to expand on my skills in that language.
 
 ---
-#### Twilight Labyrinth, Digital Game = Co-Developer
+#### Twilight Labyrinth, Digital Game = Programmer
 ###### 2019 APRIL 13 - 14
 Twilight Labyrinth is a single player turn based adventure game focused on the audio immersion of the player. The game is tailored towards blind or visually impaired gamers, and can be played based on sound alone. The game was developed in 24 hours at Technight 2019 Hackathon in Brooklyn, NY.
 
 [https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth](https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth)
+
+---
+#### Mail Matcher, Email Based Dating App = Developer
+###### 2019 APRIL 26 - 27
+Though this was an independent project, I wanted to replicate the intense workflow I experienced at the 2019 Technight Hackathon (minus the all-nighter)...  I worked on the game for most of the first day, and then finished up in the morning of the following day.
+
+This project has some interesting goals in addition to wanting to complete it quickly.  I designed the project with decentralization in mind (an important feature of cryptocurrency that excites me).  Anyone can host a server for the dating app, by just downloading and running the python code, after inputting their email address and password.  One thing I hope to address in the future, would be a coordination of the servers, to form a larger collective database (currently people can only be matched with other people from the same host).
+
+Another interesting interesting thing I implemented was in my match making algorithm.  In addition to matching people based on gender and other stuff, I used a statistical analysis of their word choices and sentence structure.  The algorithm compares various numbers like average word length, usage of the lowercase ' i ', and average sentence length, of two potential matches.
+
+Lots more information, and a more verbose summary in the readme:
+
+[https://github.com/Mask-of-the-Fractal-Abyss/Mail-Matcher](https://github.com/Mask-of-the-Fractal-Abyss/Mail-Matcher)
