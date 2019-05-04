@@ -37,6 +37,8 @@ This game has an interesting relationship with Super Fortress, in that I met som
 ###### 2019 APRIL 13 - 14
 Twilight Labyrinth is a single player turn based adventure game focused on the audio immersion of the player. The game is tailored towards blind or visually impaired gamers, and can be played based on sound alone. The game was developed in 24 hours at Technight 2019 Hackathon in Brooklyn, NY.
 
+We won second place overall, as well as the Best Game and Music award.
+
 [https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth](https://github.com/Mask-of-the-Fractal-Abyss/TwilightLabyrinth)
 
 ---
