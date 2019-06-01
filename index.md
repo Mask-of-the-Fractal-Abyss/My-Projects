@@ -44,11 +44,11 @@ We won second place overall, as well as the Best Game and Music award.
 ---
 #### Mail Matcher, Python, Email Based Dating App = Developer
 ###### 2019 APRIL 26 - 27
-Though this was an independent project, I wanted to replicate the intense workflow I experienced at the 2019 Technight Hackathon (minus the all-nighter)...  I worked on the game for most of the first day, and then finished up in the morning of the following day.
+Though this was an independent project, I wanted to replicate the intense workflow I experienced at the 2019 Technight Hackathon (minus the all-nighter)...  I worked on the game for most of the first day, and then finished up the morning of the following day.
 
 This project has some interesting goals in addition to wanting to complete it quickly.  I designed the project with decentralization in mind (an important feature of cryptocurrency that excites me).  Anyone can host a server for the dating app, by just downloading and running the python code, after inputting their email address and password.  One thing I hope to address in the future, would be a coordination of the servers, to form a larger collective database (currently people can only be matched with other people from the same host).
 
-Another interesting interesting thing I implemented was in my match making algorithm.  In addition to matching people based on gender and other stuff, I used a statistical analysis of their word choices and sentence structure.  The algorithm compares various numbers like average word length, usage of the lowercase ' i ', and average sentence length, of two potential matches.
+Another interesting interesting thing I implemented was in my match making algorithm.  In addition to matching people based on personal interests and other stuff, I used a straightforward statistical analysis of their word choices and sentence structure.  The algorithm compares various numbers like average word and sentence length, of two potential matches.
 
 Lots more information, and a more verbose summary in the readme:
 
